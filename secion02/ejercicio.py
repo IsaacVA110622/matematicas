@@ -1,0 +1,10 @@
+a=10
+b=3
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)
+print(7-(1*6)+(5/4))
